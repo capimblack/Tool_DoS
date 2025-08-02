@@ -1,4 +1,6 @@
-# Tool_DoS
+<h3><p align="center">Tool DoS</p></h3>
+
+##
 
 <h3><p align="center">Warning</p></h3>
 
@@ -14,15 +16,40 @@ This tool merely demonstrates "how a DoS attack works." You should not misuse th
 
 ### Installation
 
-- Just, Clone this repository -
+- Just, Clone this repository
   ```
   git clone https://github.com/capimblack/Tool_DoS
   ```
 
-- Now go to cloned directory and run `Tool_DoS.py` -
+- Now go to cloned directory and run `Tool_DoS.py`
   ```
+  $ cd Tool_DoS
   $ cd DoS
   $ python Tool_DoS.py
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Tool DoS*** is installed.
+
+##
+
+### Installation in Termux
+
+- Installation the requirements.
+  ```
+  $ pkg install python
+  $ pkg install git
+  ```
+
+- Just, Clone this repository
+  ```
+  git clone https://github.com/capimblack/Tool_DoS
+  ```
+
+- Now go to cloned directory and run `Tool_DoS.py`
+  ```
+  $ cd Tool_DoS
+  $ cd DoS
+  $ python Tool_DoS.py
+  ```
+
+- On first launch, It'll install the dependencies and that's it. ***Tool DoS*** is installed in Termux.
